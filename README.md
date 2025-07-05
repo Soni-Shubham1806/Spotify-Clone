@@ -1,2 +1,2 @@
 Author - Shubham Soni
-Project - Spotify clone
+Project - Spotify clone (only frontend)
